@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $CC' echo $PATH  | grep -0 ":l"  | wc -l' +1}}
